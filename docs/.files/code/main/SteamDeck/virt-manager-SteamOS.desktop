@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Virtual Machine Manager
+Exec=sudo virt-manager
+Icon=virt-manager
+Terminal=true
+Type=Application
