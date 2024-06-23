@@ -20,5 +20,5 @@ echo "Opening Guide for rest of setup..."
 sleep 10
 firefox https://gist.github.com/tatumroaquin/c6464e1ccaef40fd098a4f31db61ab22#enable-normal-user-account-to-use-kvm
 sleep 15
-wget -P /home/$USER/Desktop/ -O virmgr.desktop https://TechTalonCodes.github.io/.files/code/maim/SteamDeck/virt-manager-SteamOS.desktop
+wget -P /home/$USER/Desktop/ -O virmgr.desktop https://TechTalonCodes.github.io/.files/code/main/SteamDeck/virt-manager-SteamOS.desktop
 exit
